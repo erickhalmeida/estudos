@@ -1,4 +1,4 @@
-const firstComponent = () => {
+const FirstComponent = () => {
 
     return (
         <div>
@@ -8,4 +8,4 @@ const firstComponent = () => {
 
 };
 
-export default firstComponent;
+export default FirstComponent;
