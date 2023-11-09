@@ -3,7 +3,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Seção 3</h1>
+      <h1>Avançando em React</h1>
+      <div>
+        <img src="/img1.jpg" alt="" />
+      </div>
     </div>
   );
 }
