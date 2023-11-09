@@ -1,6 +1,7 @@
 import './App.css';
 
 import Img2 from './assets/img2.jpg';
+import ListRender from './components/ListRender';
 import ManageData from './components/ManageData';
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
         <img src={Img2} alt="" />
       </div>
       <ManageData />
+      <ListRender />
     </div>
   );
 }
